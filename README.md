@@ -1,6 +1,6 @@
 # Projeto 1 - Engenharia de Dados
 
-Projeto realizado no curso "Formação Engenharia de Dados: Domine Big Data!".
+Projeto realizado no curso "*Formação Engenharia de Dados: Domine Big Data!*".
 
 ## Objetivo 🎯
 *Inventariar imagens armazenadas em um bucket S3 em um banco de dados Postgres no Amazon RDS*
