@@ -10,6 +10,6 @@ Projeto realizado no curso "*Formação Engenharia de Dados: Domine Big Data!*".
 - Banco Postgres criado no Amazon RDS;
 - Credenciais de segurança da AWS (chaves de acesso);
 
-## Desenvolvimento
+## Desenvolvimento 👨🏻‍💻
 O notebook deste projeto está disponível neste repositório, no arquivo "*conexao_s3_postgres.ipynb*".
 A fim de proteger dados sensíveis, foram utilizadas variáveis de ambiente para preencher os valores de chaves de acesso, por exemplo.
